@@ -1,3 +1,7 @@
+/*
+ * generating a layout to style the hyperlink
+ */
+
 a {
   text-decoration: none;
   display: inline-block;
